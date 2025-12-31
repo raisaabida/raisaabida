@@ -50,10 +50,11 @@ Currently focused on improving my skills and working on real-life projects.
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raisaabida&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raisaabida" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisaabida&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raisaabida&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raisaabida&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisaabida&layout=compact&theme=tokyonight" />
 </p>
 
 
