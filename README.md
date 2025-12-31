@@ -45,7 +45,7 @@ Currently focused on improving my skills and working on real-life projects.
 
 ## 🔗 Social Links
 - 💼 LinkedIn: https://linkedin.com/in/yourname  
-- 🧑‍💻 GitHub: https://github.com/yourusername  
+- 🧑‍💻 GitHub: [https://github.com/yourusername](https://github.com/raisaabida)  
 
 ---
 
