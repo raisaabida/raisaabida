@@ -19,7 +19,7 @@ Currently focused on improving my skills and working on real-life projects.
 
 ## 🚀 Current Activities
 - 🌱 Exploring **Next.js**
-- 💻 Working on a **Tourism Website**
+- 💻 Working on a **Doctor - Patient Website**
 - 📚 Learning advanced **React & Tailwind CSS**
 
 ---
@@ -45,7 +45,7 @@ Currently focused on improving my skills and working on real-life projects.
 
 ## 🔗 Social Links
 - 💼 LinkedIn: https://linkedin.com/in/yourname  
-- 🧑‍💻 GitHub: [https://github.com/yourusername](https://github.com/raisaabida)  
+- 🧑‍💻 GitHub:https://github.com/raisaabida  
 
 ---
 
