@@ -51,10 +51,10 @@ Currently focused on improving my skills and working on real-life projects.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raisaabida&show_icons=true&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raisaabida&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raisaabida&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raisaabida&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raisaabida&layout=compact&theme=tokyonight)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raisaabida&theme=tokyonight)
 
 
