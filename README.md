@@ -1,9 +1,11 @@
 <!-- Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-image-link-here" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Raisa%20Abida&fontSize=42&fontAlignY=35&desc=Frontend%20Web%20Developer&descAlignY=55" alt="Raisa Abida Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Raisa Abida</h1>
+
+<h1 align="center">Hey there!! 👋, I'm Raisa Abida</h1>
 <h3 align="center">Frontend Web Developer</h3>
 
 ---
@@ -49,7 +51,9 @@ Currently focused on improving my skills and working on real-life projects.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raisaabida&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raisaabida" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisaabida&layout=compact" />
 </p>
+
+
