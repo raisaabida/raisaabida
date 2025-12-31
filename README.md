@@ -44,7 +44,7 @@ Currently focused on improving my skills and working on real-life projects.
 ---
 
 ## 🔗 Social Links
-- 💼 LinkedIn: https://linkedin.com/in/yourname  
+- 💼 LinkedIn: https://www.linkedin.com/in/abida-raisa-4401463a2/ 
 - 🧑‍💻 GitHub:https://github.com/raisaabida  
 
 ---
