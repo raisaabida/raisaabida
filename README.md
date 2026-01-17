@@ -11,7 +11,7 @@
 ---
 
 ## 👩‍💻 About Me
-I am a passionate Frontend Web Developer with a strong interest in building responsive and user-friendly web applications.  
+I am a passionate MERN stack Web Developer with a strong interest in building responsive and user-friendly web applications.  
 I enjoy turning ideas into real-world projects using modern web technologies.  
 Currently focused on improving my skills and working on real-life projects.
 
