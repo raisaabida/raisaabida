@@ -1,7 +1,7 @@
 <!-- Banner -->
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Raisa%20Abida&fontSize=42&fontAlignY=35&desc=Frontend%20Web%20Developer&descAlignY=55" alt="Raisa Abida Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Raisa%20Abida&fontSize=42&fontAlignY=35&desc=MERN Stack%20Web%20Developer&descAlignY=55" alt="Raisa Abida Banner" />
 </p>
 
 
