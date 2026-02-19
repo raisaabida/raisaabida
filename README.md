@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hey there!! 👋, I'm Raisa Abida</h1>
-<h3 align="center">Frontend Web Developer</h3>
+<h3 align="center">MERN Stack Web Developer</h3>
 
 ---
 
